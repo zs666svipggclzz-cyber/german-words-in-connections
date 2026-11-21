@@ -25,6 +25,7 @@ To test this pattern in a puzzle, read the final letters of several tiles as sta
 
 ## Data and sources
 
+- [Browse the filterable glossary](https://zs666svipggclzz-cyber.github.io/german-words-in-connections/) to find terms with the same ending.
 - [Download the UTF-8 JSON glossary](https://raw.githubusercontent.com/zs666svipggclzz-cyber/german-words-in-connections/main/glossary.json). Each entry includes an `appearance` field. A `null` value identifies a spelling example, for which this glossary makes no claim of a puzzle appearance.
 - [German Words in Connections: Why They Fit the Grid](https://stuttgartermeaning.com/german-words-in-connections) provides the article’s list of demonyms and loanwords and explains the ending pattern.
 - The [Stuttgarter Meaning puzzle write-up](https://stuttgartermeaning.com/nytimes-connections-1258) supplies the displayed puzzle number. The [New York Times dated game data][puzzle] confirms the date, tile, and category.
