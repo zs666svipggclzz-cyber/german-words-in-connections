@@ -1,0 +1,86 @@
+{
+  "title": "German Words in Connections",
+  "language": "en",
+  "license": "CC-BY-4.0",
+  "source": "https://stuttgartermeaning.com/german-words-in-connections",
+  "entries": [
+    {
+      "term": "Stuttgarter",
+      "meaning": "A person from Stuttgart, or “of Stuttgart” before a noun",
+      "ending": "GARTER",
+      "ending_meaning": "A band that holds up a stocking",
+      "appearance": {
+        "game": "NYT Connections",
+        "number": 1258,
+        "date": "2026-11-20",
+        "tile": "STUTTGARTER",
+        "category": "ENDING IN LINGERIE",
+        "source": "https://www.nytimes.com/svc/connections/v2/2026-11-20.json",
+        "puzzle_number_source": "https://stuttgartermeaning.com/nytimes-connections-1258"
+      }
+    },
+    {
+      "term": "Augsburger",
+      "meaning": "A person from Augsburg",
+      "ending": "BURGER",
+      "ending_meaning": "A sandwich containing a patty",
+      "appearance": null
+    },
+    {
+      "term": "Berliner",
+      "meaning": "A person from Berlin",
+      "ending": "LINER",
+      "ending_meaning": "A protective layer inside something",
+      "appearance": null
+    },
+    {
+      "term": "Hamburger",
+      "meaning": "A person from Hamburg, in German",
+      "ending": "BURGER",
+      "ending_meaning": "A sandwich containing a patty",
+      "appearance": null
+    },
+    {
+      "term": "Würzburger",
+      "meaning": "A person from Würzburg",
+      "ending": "BURGER",
+      "ending_meaning": "A sandwich containing a patty",
+      "appearance": null
+    },
+    {
+      "term": "Doppelganger",
+      "meaning": "A double or look-alike, from German Doppelgänger",
+      "ending": "ANGER",
+      "ending_meaning": "A strong feeling of displeasure",
+      "appearance": null
+    },
+    {
+      "term": "Glockenspiel",
+      "meaning": "A percussion instrument with tuned metal bars",
+      "ending": "SPIEL",
+      "ending_meaning": "A rehearsed or lengthy speech",
+      "appearance": null
+    },
+    {
+      "term": "Rucksack",
+      "meaning": "A bag carried on the back",
+      "ending": "SACK",
+      "ending_meaning": "A large bag",
+      "appearance": null
+    },
+    {
+      "term": "Wanderlust",
+      "meaning": "A strong desire to travel",
+      "ending": "LUST",
+      "ending_meaning": "An intense desire",
+      "appearance": null
+    },
+    {
+      "term": "Wunderkind",
+      "meaning": "A child prodigy or an exceptionally talented young person",
+      "ending": "KIND",
+      "ending_meaning": "A type or sort",
+      "appearance": null
+    }
+  ]
+}
